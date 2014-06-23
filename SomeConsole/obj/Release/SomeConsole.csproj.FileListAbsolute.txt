@@ -1,0 +1,8 @@
+C:\Users\Kaka\Documents\Visual Studio 2013\Projects\SomeConsole\SomeConsole\bin\Release\SomeConsole.exe.config
+C:\Users\Kaka\Documents\Visual Studio 2013\Projects\SomeConsole\SomeConsole\obj\Release\Interop.WMPLib.dll
+C:\Users\Kaka\Documents\Visual Studio 2013\Projects\SomeConsole\SomeConsole\obj\Release\SomeConsole.csproj.ResolveComReference.cache
+C:\Users\Kaka\Documents\Visual Studio 2013\Projects\SomeConsole\SomeConsole\bin\Release\SomeConsole.exe
+C:\Users\Kaka\Documents\Visual Studio 2013\Projects\SomeConsole\SomeConsole\bin\Release\SomeConsole.pdb
+C:\Users\Kaka\Documents\Visual Studio 2013\Projects\SomeConsole\SomeConsole\obj\Release\SomeConsole.exe
+C:\Users\Kaka\Documents\Visual Studio 2013\Projects\SomeConsole\SomeConsole\obj\Release\SomeConsole.pdb
+C:\Users\Kaka\Documents\Visual Studio 2013\Projects\SomeConsole\SomeConsole\obj\Release\SomeConsole.csprojResolveAssemblyReference.cache

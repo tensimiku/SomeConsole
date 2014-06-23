@@ -1,0 +1,9 @@
+c:\users\kaka\documents\visual studio 2013\Projects\SomeConsole\SomeConsole\bin\Debug\SomeConsole.exe.config
+c:\users\kaka\documents\visual studio 2013\Projects\SomeConsole\SomeConsole\bin\Debug\SomeConsole.exe
+c:\users\kaka\documents\visual studio 2013\Projects\SomeConsole\SomeConsole\bin\Debug\SomeConsole.pdb
+c:\users\kaka\documents\visual studio 2013\Projects\SomeConsole\SomeConsole\obj\Debug\Interop.WMPLib.dll
+c:\users\kaka\documents\visual studio 2013\Projects\SomeConsole\SomeConsole\obj\Debug\SomeConsole.csproj.ResolveComReference.cache
+c:\users\kaka\documents\visual studio 2013\Projects\SomeConsole\SomeConsole\obj\Debug\SomeConsole.exe
+c:\users\kaka\documents\visual studio 2013\Projects\SomeConsole\SomeConsole\obj\Debug\SomeConsole.pdb
+C:\Users\Kaka\Documents\Visual Studio 2013\Projects\SomeConsole\SomeConsole\bin\Debug\SomeConsole.exe.CodeAnalysisLog.xml
+C:\Users\Kaka\Documents\Visual Studio 2013\Projects\SomeConsole\SomeConsole\bin\Debug\SomeConsole.exe.lastcodeanalysissucceeded
